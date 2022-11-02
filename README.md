@@ -13,4 +13,4 @@ I'm a curious software developer, determined to improve myself and discover new 
 
 #### My socials:
 
-<a href="https://www.linkedin.com/in/karina-margarita-dzene/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50"> <a/> <a href="https://github.com/kariinmgdn/kariinmgdn" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"> <a/>
+<a href="https://www.linkedin.com/in/karina-margarita-dzene/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50"> <a/> <a href="https://github.com/kariinmgdn" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50"> <a/>
