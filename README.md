@@ -5,7 +5,7 @@ I'm a curious software developer, determined to improve myself and discover new 
 
 - 🔭 Currently working on Flight planner app
 - 🌱 I’m learning Java, Spring Framework, Git and much more
-- 🌎 Based in Riga, Latvia
+- 🌎 Based in Riga, Latvia :)
 
 #### Languages and Tools:
 
