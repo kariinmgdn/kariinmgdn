@@ -3,7 +3,7 @@
 #### Welcome to my profile!
 I'm a curious software developer, determined to improve myself and discover new knowlage every day.
 
-- 🔭 Currently working on Flight planner app
+- 🔭 Currently working on [Flight planner app](https://github.com/kariinmgdn/flight-planner)
 - 🌱 I’m learning Java, Spring Framework, Git and much more
 - 🌎 Based in Riga, Latvia :)
 
