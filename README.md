@@ -2,7 +2,7 @@
 #
 
 ### *A little bit about me...*<img src="https://media1.giphy.com/media/fVas8IkFyvs4eKP3Qy/giphy.gif?cid=ecf05e4791wui8zw68yj4xn8enqcfmxk7d7eguacxsaqhbu4&rid=giphy.gif&ct=s" width="70"/>
-*I'm a curious software developer, determined to improve myself and discover new knowledge every day* <img vertical-align="bottom"  src="https://media4.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif?cid=ecf05e471tyk94bx4vfis0h7abfh29rtit6y1rj3vwb01m8l&rid=giphy.gif&ct=s" height="25"/>
+*I'm a curious software developer, determined to improve myself and discover new knowledge day by day* <img vertical-align="bottom"  src="https://media4.giphy.com/media/mF5eigrMBLWzN7PXpT/giphy.gif?cid=ecf05e471tyk94bx4vfis0h7abfh29rtit6y1rj3vwb01m8l&rid=giphy.gif&ct=s" height="25"/>
 
 <img align="right" src="https://media3.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=790b7611379af138943bcbc589e3f7a1acbca391d228b10a&rid=giphy.gif&ct=g" width="400" height="222"/>
 
