@@ -14,7 +14,7 @@
 
 ```
 String[] langsAndTools = {Java, Spring Boot Framework,
-        Git, CSS, HTML, NodeJS};
+        Git, CSS, HTML, NodeJS, SQL};
           
 String newSkill = "loading...";
 ```
