@@ -6,15 +6,15 @@
 
 <img align="right" src="https://media3.giphy.com/media/ASy3PKVFnk7ZK/giphy.gif?cid=790b7611379af138943bcbc589e3f7a1acbca391d228b10a&rid=giphy.gif&ct=g" width="400" height="222"/>
 
-- 🔭 Currently working on *[my portfolio](https://github.com/kariinmgdn/MyPortfolio)*
-- 🌱 I’m learning Java, Spring Framework, Git and much more
+- 🔭 Currently working on *[my portfolio](https://kariinmgdn.vercel.app/)*
+- 🌱 I’m learning Java, Git, TypeScript and much more
 - 🌎 Based in Riga, Latvia
 
 #### *Languages and Tools:*
 
 ```
 String[] langsAndTools = {Java, Spring Boot Framework,
-        Git, CSS, HTML, NodeJS, SQL};
+        Git, CSS, HTML, TypeScript, NodeJS, SQL};
           
 String newSkill = "loading...";
 ```
